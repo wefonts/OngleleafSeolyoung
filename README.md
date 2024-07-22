@@ -1,1 +1,16 @@
-# OngleleafSeolyoung
+<pre>
+@font-face {
+    font-family: "OngleleafSeolyoung";
+    font-weight: 300;
+    font-style: normal;
+    src: url("https://cdn.jsdelivr.net/gh/wefonts/OngleleafSeolyoung/OngleleafSeolyoung.woff2") format("woff2"),
+         url("https://cdn.jsdelivr.net/gh/wefonts/OngleleafSeolyoung/OngleleafSeolyoung.woff") format("woff"),
+         url("https://cdn.jsdelivr.net/gh/wefonts/OngleleafSeolyoung/OngleleafSeolyoung.ttf") format("truetype");
+    font-display: swap;
+}
+
+.OngleleafSeolyoung {
+    font-family: "OngleleafSeolyoung";
+}
+  
+</pre>
